@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Fun fact: food tastes better if you suck in air while you chew!
+- 🏍️ > 🚙
 
 <!--
 **al8/al8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
